@@ -1,4 +1,4 @@
-# synthesize.ai
+# Synthesize.ai
 
 🚀 Synthesize.ai is an **AI-powered research assistant** that lets you engage with academic papers as if you’re speaking directly to the researchers.
 
@@ -13,5 +13,5 @@
 🔍 **Technologies:**
 
 - LangChain
-- OpenAi
+- OpenAI
 - StreamLit
